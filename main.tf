@@ -10,3 +10,4 @@ resource "aws_instance" "My_Server" {
     Name = "Ubuntu Server"
   }
 }
+
